@@ -1,2 +1,2 @@
-FROM registry.k8s.io/sig-storage/csi-provisioner:v3.3.0
+FROM gcr.io/k8s-staging-sig-storage/nfsplugin:canary
 MAINTAINER polarwu <185581098@qq.com>
