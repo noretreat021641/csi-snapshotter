@@ -1,2 +1,2 @@
-FROM quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.16
+FROM registry.k8s.io/sig-storage/livenessprobe:v2.8.0
 MAINTAINER polarwu <185581098@qq.com>
