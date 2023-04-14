@@ -1,2 +1,2 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+FROM quay.io/openshift-scale/etcd-perf:arm64
 MAINTAINER polarwu <185581098@qq.com>
