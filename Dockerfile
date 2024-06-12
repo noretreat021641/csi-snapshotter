@@ -1,2 +1,2 @@
-FROM quay.io/openshift-scale/etcd-perf:arm64
+FROM ansible/centos7-ansible:latest
 MAINTAINER polarwu <185581098@qq.com>
