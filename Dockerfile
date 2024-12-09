@@ -1,2 +1,2 @@
-FROM docker.io/istio/examples-bookinfo-reviews-v1:1.20.1
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.8.23
 MAINTAINER polarwu <185581098@qq.com>
